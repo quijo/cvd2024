@@ -7,9 +7,15 @@
     <link rel="stylesheet" href="./src/output.css">
 </head>
 <body>
+<!-- header with menu-->
+    <header class="bg-blue-400">
+        <?php include 'components/header.php';?>
+    </header>
+
+<!-- hero -->
     <div class="flex justify-center items-center h-screen ">
-       <h1 class="text-red-600">
-        This site is underconstruction
+     
+       <h1 class="text-red-600"> 
        </h1> 
     </div>
     
