@@ -11,7 +11,7 @@
 <body>
 <!-- header with menu-->
 
-<?php include 'components/header.php';?>
+
 
 <!-- hero -->
      <?php include 'components/hero.php' ?>
