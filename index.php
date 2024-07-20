@@ -15,8 +15,9 @@
 <!-- hero -->
     <div class="flex justify-center items-center h-screen ">
      
-       <h1 class="text-red-600"> 
-       </h1> 
+       <p class="text-red-600 text-4xl"> 
+            This site is underconstruction
+        </p> 
     </div>
     
 </body>
