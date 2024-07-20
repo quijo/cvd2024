@@ -5,16 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CVD</title>
     <link rel="stylesheet" href="./src/output.css">
-    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <link rel="shortcut icon" type="image/jpg" href="/images/favicon.ico"/>
     <link rel="stylesheet" href="./src/style.css">
 </head>
 <body>
-<!-- header with menu-->
 
-
-
-<!-- hero -->
-     <?php include 'components/hero.php' ?>
+<!-- hero with header-->
+<?php include 'components/hero.php' ?>
    
     
 </body>
